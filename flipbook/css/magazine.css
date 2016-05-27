@@ -1,5 +1,5 @@
 body{
-	overflow:hidden;
+	overflow:auto;
 	background-color:#fcfcfc;
 	margin:0;
 	padding:0;
@@ -35,7 +35,7 @@ body{
 
 .magazine .region{
 	position:absolute;
-	overflow:scroll;
+	overflow:auto;
 	background:#0066FF;
 	opacity:0.2;
 	-webkit-border-radius:10px;
