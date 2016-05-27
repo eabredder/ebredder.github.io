@@ -255,7 +255,7 @@ body{
 
 .thumbnails li{
 	list-style:none;
-	display:inline;
+	display:inline-block;
 	margin:0 5px;
 	-webkit-box-shadow:0 0 10px #ccc;
 	-moz-box-shadow:0 0 10px #ccc;
@@ -270,7 +270,7 @@ body{
 }
 
 .thumbnails li span{
-	display:inline-block;
+	display:none;
 }
 
 .thumbnails .current{
