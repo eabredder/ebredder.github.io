@@ -270,7 +270,7 @@ body{
 }
 
 .thumbnails li span{
-	display:block;
+	display:inline-block;
 }
 
 .thumbnails .current{
