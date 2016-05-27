@@ -30,7 +30,7 @@ body{
 }
 
 .magazine-viewport .zoomer .region{
-	display:none;
+	display:inline;
 }
 
 .magazine .region{
